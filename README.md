@@ -1,3 +1,2 @@
-Bonjour,
-Je suis Mathieu QUENEC'H étudiant à CPE Lyon en PSM 
-et voici mon espace GitHub pour mes programmes Pythons
+Hello,
+I am Mathieu QUENEC'H, a student at CPE Lyon specializing in PSM (Physics and Microelectronic Systems).
